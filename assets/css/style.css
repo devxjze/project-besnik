@@ -580,10 +580,6 @@ footer {
     border-radius: 3px;
 }
 
-.footer .social-link:hover {
-    background: #ebebeb;
-}
-
 .footer .row-bottom {
     display: flex;
     align-items: center;
