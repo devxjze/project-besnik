@@ -591,6 +591,12 @@ footer {
     height: 28px;
     border-radius: 3px;
 }
+.footer .social-link + .social-link {
+    margin-left: 16px;
+}
+.footer .social-link:hover {
+    background-color: #ebebeb;
+}
 
 .footer .row-bottom {
     display: flex;
